@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 A simple program which pretends to play tic-tac-toe with the user.
------
+
+
 ## Scenario
 
 The program checks if the game is over − there are four possible verdicts: the game should continue, the game ends with a tie, you win, or the computer wins;
