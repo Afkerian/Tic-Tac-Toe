@@ -29,7 +29,7 @@ O	|	X	|	3
 
 Enter your move: 8
 
-Some moves later
+Some moves later...
 
 O	|	X	|	X
 ---|	---|	---
